@@ -1,0 +1,9 @@
+ /* Google Fonts - Poppins */
+ @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:'Nunito', sans-serif;
+  transition: all 0.4s ease;
+}
